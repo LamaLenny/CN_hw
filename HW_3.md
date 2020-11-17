@@ -2,8 +2,10 @@
 ![image](https://github.com/LamaLenny/CN_hw/blob/master/img/newplot%20(5).png?raw=true)
 ![image](https://github.com/LamaLenny/CN_hw/blob/master/img/newplot%20(6).png?raw=true)
 ![image](https://github.com/LamaLenny/CN_hw/blob/master/img/newplot%20(7).png?raw=true)
+![image](https://github.com/LamaLenny/CN_hw/blob/master/img/newplot%20(14).png?raw=true)
 
 Котенок выжил, активность пиромидального нейрона устойчивая, есть бёрстинговая активности нейрона (частота не менее 10Гц) не менее 5 раз за время эксперимента.
+Можно также заметить, что спайки в пиромидальном нейроне происходят ровно тогда, когда у нас ,большие пики в токе I_synapse.
 # Фазовые пространства
 ![image](https://github.com/LamaLenny/CN_hw/blob/master/img/newplot%20(8).png?raw=true)
 ![image](https://github.com/LamaLenny/CN_hw/blob/master/img/newplot%20(9).png?raw=true)
