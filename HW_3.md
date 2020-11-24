@@ -16,6 +16,7 @@
 ![image](https://github.com/LamaLenny/CN_hw/blob/master/img/newplot%20(25).png?raw=true)
 ![image](https://github.com/LamaLenny/CN_hw/blob/master/img/newplot%20(26).png?raw=true)
 ![image](https://github.com/LamaLenny/CN_hw/blob/master/img/newplot%20(27).png?raw=true)
+![image](https://github.com/LamaLenny/CN_hw/blob/master/img/newplot%20(31).png?raw=true)
 
 
 Для каждого промежутка симуляции существуют предельные циклы каждого
